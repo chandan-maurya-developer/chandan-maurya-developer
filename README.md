@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @chandan-maurya-developer
-- 👀 I’m invested in DotNet and Web Developement
-- 📫 How to reach me -> chandan.maurya.developer@gmail.com
+# Chandan Maurya.
 
--Happy Coding-
+I am a **.NET C# Developer**.
+In addition to .NET, I also like to work with **PowerShell**. 
+
+# Contact Information
+
+ - 📫 How to reach me -> chandan.maurya.developer@gmail.com
+
+★,°*:.☆(￣▽￣)/$:*.°★
